@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Live Streaming on Pocheng&#39;s Blog</title>
-        <link>https://poch3ng.github.io/tags/live-streaming/</link>
-        <description>Recent content in Live Streaming on Pocheng&#39;s Blog</description>
+        <title>Project on Pocheng&#39;s Blog</title>
+        <link>https://poch3ng.github.io/categories/project/</link>
+        <description>Recent content in Project on Pocheng&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poch3ng.github.io/tags/live-streaming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poch3ng.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>VT Live</title>
         <link>https://poch3ng.github.io/p/vt-live/</link>
         <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
