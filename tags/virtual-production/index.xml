@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Virtual Production on Pocheng&#39;s Blog</title>
+        <link>https://poch3ng.github.io/tags/virtual-production/</link>
+        <description>Recent content in Virtual Production on Pocheng&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://poch3ng.github.io/tags/virtual-production/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>RTISS</title>
+        <link>https://poch3ng.github.io/p/rtiss/</link>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://poch3ng.github.io/p/rtiss/</guid>
+        <description>&lt;img src="https://poch3ng.github.io/p/rtiss/cover.png" alt="Featured image of post RTISS" /&gt;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper proposes a virtual production camera system, which allows photographers to connect the camera and the virtual environment 
+quickly and capture the moving trajectory of the camera in reality through HTC VIVE and iPhone. It is synchronized with the virtual camera,
+allowing users to preview the synthesized result in real-time. We use homemade buttons and assist system programs to maintain 
+the photographer’s existing shooting process and ease the transition from traditional to virtual production.&lt;/p&gt;
+&lt;h2 id=&#34;tracking-device-setup&#34;&gt;Tracking Device Setup&lt;/h2&gt;
+&lt;h3 id=&#34;htc-vive&#34;&gt;HTC VIVE&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/rtiss/camera_rig.png&#34;
+	width=&#34;1947&#34;
+	height=&#34;1102&#34;
+	srcset=&#34;https://poch3ng.github.io/p/rtiss/camera_rig_huca2794b2f3c530dea6d19faeb4448293_2354686_480x0_resize_box_3.png 480w, https://poch3ng.github.io/p/rtiss/camera_rig_huca2794b2f3c530dea6d19faeb4448293_2354686_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HTC VIVE Setup&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;424px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;iphone&#34;&gt;iPhone&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/rtiss/vcam_setup.jpg&#34;
+	width=&#34;1145&#34;
+	height=&#34;751&#34;
+	srcset=&#34;https://poch3ng.github.io/p/rtiss/vcam_setup_hu7e43173bc02675751745e8a93675fa2b_145444_480x0_resize_q75_box.jpg 480w, https://poch3ng.github.io/p/rtiss/vcam_setup_hu7e43173bc02675751745e8a93675fa2b_145444_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;iPhone Setup&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;365px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;snapshots&#34;&gt;Snapshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/rtiss/process.PNG&#34;
+	width=&#34;2501&#34;
+	height=&#34;367&#34;
+	srcset=&#34;https://poch3ng.github.io/p/rtiss/process_hu79c29b1b4216375c5607b3aff96ea865_1609214_480x0_resize_box_3.PNG 480w, https://poch3ng.github.io/p/rtiss/process_hu79c29b1b4216375c5607b3aff96ea865_1609214_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Shooting Process. From left to right are the (a) side shot , (b) camera input, (c) virtual background, and (d) composite result.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;681&#34;
+		data-flex-basis=&#34;1635px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/rtiss/comp_list.png&#34;
+	width=&#34;1151&#34;
+	height=&#34;998&#34;
+	srcset=&#34;https://poch3ng.github.io/p/rtiss/comp_list_hu2d5c3821354079974fca6ce73448144e_2004596_480x0_resize_box_3.png 480w, https://poch3ng.github.io/p/rtiss/comp_list_hu2d5c3821354079974fca6ce73448144e_2004596_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Result&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;115&#34;
+		data-flex-basis=&#34;276px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/rtiss/system_ui.PNG&#34;
+	width=&#34;2062&#34;
+	height=&#34;1124&#34;
+	srcset=&#34;https://poch3ng.github.io/p/rtiss/system_ui_hu7fc7314c6d58c1d3397b49f1ed45d257_3175100_480x0_resize_box_3.PNG 480w, https://poch3ng.github.io/p/rtiss/system_ui_hu7fc7314c6d58c1d3397b49f1ed45d257_3175100_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;User Interface&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;183&#34;
+		data-flex-basis=&#34;440px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
