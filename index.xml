@@ -117,27 +117,55 @@ the photographer’s existing shooting process and ease the transition from trad
         <description></description>
         </item>
         <item>
-        <title>Hello World</title>
-        <link>https://poch3ng.github.io/p/hello-world/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        <title>CGber</title>
+        <link>https://poch3ng.github.io/p/cgber/</link>
+        <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://poch3ng.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://poch3ng.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-&lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://docs.stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+        <guid>https://poch3ng.github.io/p/cgber/</guid>
+        <description>&lt;img src="https://poch3ng.github.io/p/cgber/cover.png" alt="Featured image of post CGber" /&gt;&lt;p&gt;Interactive software for online distance courses.&lt;/p&gt;
+&lt;h2 id=&#34;function&#34;&gt;Function&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Login page&lt;/li&gt;
+&lt;li&gt;Character select&lt;/li&gt;
+&lt;li&gt;Drag and scale the virtual character&lt;/li&gt;
+&lt;li&gt;Bullet screen&lt;/li&gt;
+&lt;li&gt;Multiplayer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;snapshots&#34;&gt;Snapshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/cgber/login.png&#34;
+	width=&#34;3440&#34;
+	height=&#34;1440&#34;
+	srcset=&#34;https://poch3ng.github.io/p/cgber/login_hu79adbc139ac2d03d898f5a82446c569c_62572_480x0_resize_box_3.png 480w, https://poch3ng.github.io/p/cgber/login_hu79adbc139ac2d03d898f5a82446c569c_62572_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Login Page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;238&#34;
+		data-flex-basis=&#34;573px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://poch3ng.github.io/p/cgber/character.png&#34;
+	width=&#34;3440&#34;
+	height=&#34;1440&#34;
+	srcset=&#34;https://poch3ng.github.io/p/cgber/character_hu503637d60fd07263a77371cd6b65243c_513980_480x0_resize_box_3.png 480w, https://poch3ng.github.io/p/cgber/character_hu503637d60fd07263a77371cd6b65243c_513980_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Character Select Page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;238&#34;
+		data-flex-basis=&#34;573px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>VT Live</title>
         <link>https://poch3ng.github.io/p/vt-live/</link>
-        <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
         
         <guid>https://poch3ng.github.io/p/vt-live/</guid>
         <description>&lt;img src="https://poch3ng.github.io/p/vt-live/demo.png" alt="Featured image of post VT Live" /&gt;&lt;h2 id=&#34;function&#34;&gt;Function&lt;/h2&gt;
@@ -238,6 +266,24 @@ the photographer’s existing shooting process and ease the transition from trad
     &lt;/video&gt;
 &lt;/div&gt;
 
+</description>
+        </item>
+        <item>
+        <title>Hello World</title>
+        <link>https://poch3ng.github.io/p/hello-world/</link>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://poch3ng.github.io/p/hello-world/</guid>
+        <description>&lt;img src="https://poch3ng.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
